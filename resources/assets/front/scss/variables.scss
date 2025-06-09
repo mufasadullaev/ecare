@@ -1,0 +1,47 @@
+// Основные цвета
+$primary: #4F46E5 !default; // Основной синий цвет
+$primary-light: #818CF8 !default; // Светло-синий
+$primary-dark: #4338CA !default; // Темно-синий
+
+// Градиенты
+$gradient-primary: linear-gradient(45deg, #4F46E5, #818CF8) !default;
+$gradient-secondary: linear-gradient(45deg, #818CF8, #93C5FD) !default;
+
+// Цвета состояний
+$success: #059669 !default;
+$info: #0EA5E9 !default;
+$warning: #F59E0B !default;
+$danger: #DC2626 !default;
+
+// Оттенки серого
+$gray-50: #F9FAFB !default;
+$gray-100: #F3F4F6 !default;
+$gray-200: #E5E7EB !default;
+$gray-300: #D1D5DB !default;
+$gray-400: #9CA3AF !default;
+$gray-500: #6B7280 !default;
+$gray-600: #4B5563 !default;
+$gray-700: #374151 !default;
+$gray-800: #1F2937 !default;
+$gray-900: #111827 !default;
+
+// Оттенки основного цвета
+$primary-100: #EEF2FF !default;
+$primary-200: #E0E7FF !default;
+$primary-300: #C7D2FE !default;
+$primary-400: #A5B4FC !default;
+$primary-500: #818CF8 !default;
+$primary-600: #6366F1 !default;
+$primary-700: #4F46E5 !default;
+$primary-800: #4338CA !default;
+$primary-900: #3730A3 !default;
+
+// border-radius-variables
+$border-radius: 0.5rem !default;
+$border-radius-lg: 0.75rem !default;
+
+// buttons
+$btn-padding-y: 0.625rem !default;
+$btn-padding-x: 1.25rem !default;
+$btn-focus-box-shadow: 0 0 0 0.2rem rgba($primary, 0.25) !default;
+
